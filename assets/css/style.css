@@ -193,6 +193,7 @@ a {
 }
 .hero .watch-video {
   margin-left: 20px;
+  margin-top: 15px;
   border: none;
   background: transparent;
   display: flex;
@@ -215,6 +216,7 @@ a {
   font-weight: 600;
   font-size: 1.8rem;
   line-height: 1.67;
+  margin-bottom: 10px;
 }
 .hero .desc-recent {
   margin-top: 48px;
@@ -232,4 +234,7 @@ a {
 }
 .hero .stats strong:nth-child(2) {
   margin-left: 28px;
+}
+strong {
+  font-weight: 500;
 }
