@@ -64,6 +64,7 @@ a {
   background: #fffcf4;
 }
 .header.fixed {
+  z-index: 1;
   position: sticky;
   top: -28px;
 }
@@ -256,9 +257,6 @@ a {
 }
 .hero .stats strong:nth-child(2) {
   margin-left: 28px;
-}
-strong {
-  font-weight: 500;
 }
 
 /*======popular=====*/
